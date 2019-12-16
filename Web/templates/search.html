@@ -1,0 +1,81 @@
+{% extends 'match.html' %}
+
+{% block search %}
+
+<form action="{{ url_for('find_results') }}" method="POST">
+
+
+    <div class="tags-container">
+        <p>
+            Je suis intéressé par les :
+        </p>
+
+        <input type="radio" name="gender" value="Man" checked> Hommes
+        <input type="radio" name="gender" value="Woman"> Femmes
+    </div>
+
+    <div class="tags-container">
+        <p>
+            Age : Entre
+        
+        <input class="text_inp" type="text" name="age_min" value="20">
+        
+            et
+        
+        <input class="text_inp" type="text" name="age_max" value="30">
+        
+            ans
+        </p>
+    </div>
+
+    <p>
+        J'attribue le plus d'importance aux qualités suivantes :
+    </p>
+    
+    </div>
+    <div class="tags-container">
+        <input type='checkbox' name='tag0' value='beauté'> Apparence
+        <input type='checkbox' name='tag1' value='éducation'> Bonne éducation
+        <input type='checkbox' name='tag2' value='affection'> Affection
+        <input type='checkbox' name='tag3' value='social'> Sociabilité
+        <input type='checkbox' name='tag4' value='sobre'> Sobriété
+        <input type='checkbox' name='tag5' value='travailleur'> Ambition
+        <input type='checkbox' name='tag6' value='riche'> Classe sociale élevée
+    </div>
+
+    <div class="tags-container">
+        <p>
+            Je préfère les personnes :
+        </p>
+    </div>
+    <div class="tags-container">
+        <input type='checkbox' name='tag7' value='grand'> grandes
+        <input type='checkbox' name='tag8' value='petit'> petites
+        <input type='checkbox' name='tag9' value='brun'> brunes
+        <input type='checkbox' name='tag10' value='blond'> blondes
+        <input type='checkbox' name='tag11' value='chataîn'> chataîns
+    </div>
+
+
+    <div class="tags-container">
+        <p>
+            Ayant de préfèrence une profession de :
+        </p>
+    </div>
+    <div class="tags-container">
+        <input type='checkbox' name='tag12' value='fonctionnaire'> Fonctionnaire
+        <input type='checkbox' name='tag13' value='ouvrier'> Ouvrier
+        <input type='checkbox' name='tag14' value='commerçant'> Commerçant
+        <input type='checkbox' name='tag15' value='professeur'> Professeur
+        <input type='checkbox' name='tag16' value='cadre'> Cadre
+    </div>
+
+    <div class="tags-container">
+        <div id="lien_cadre">
+            <input id="search" type="submit" value="Je trouve l'amour">
+        </div>
+    </div>
+
+</form>
+
+{% endblock %}

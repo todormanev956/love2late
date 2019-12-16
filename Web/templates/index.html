@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+        <script type=text/javascript> 
+        	var banListe=['1','2','3','4','5','6','7','8']; document.write('<body class=ban' + banListe[Math.floor(Math.random()*banListe.length)] +'>'); 
+        </script>
+        <title>Accueil - LOVE2LATE</title>
+    </head>
+
+    <body>
+            <header>
+                <div id="logo">
+                    <img src="../static/logo/logo.png" alt="Logo court LOVE2LATE" />   
+                </div>
+
+                <nav>
+                    <ul>
+                        <li><a class="lien_nav" href="{{ url_for('accueil') }}"><mark>Accueil</mark></a></li>
+                        <li><a class="lien_nav" href="{{ url_for('trouver_lamour') }}">Trouver l'amour</a></li>
+                    </ul>
+                </nav>
+            </header>
+
+            <section>
+            	<div id="logo_complet">
+            		<img src="../static/logo/logo_complet.png" alt="Logo complet LOVE2LATE"/>
+            	</div>
+
+            	<p id="texte_presentation">	
+            		Malheureux en amour dans ce monde moderne et froid ? Dis-nous ce que tu recherches, et découvre ton âme-soeur du passé !
+            	</p>
+
+            	<div id="lien_cadre">
+            		<p id="placement">
+            			<a id="button_texte" href="{{ url_for('trouver_lamour') }}" title="Vous ne le regretterez pas !">Je trouve l'amour !</a>
+            		</p>
+            	</div>	
+            </section>
+
+            <footer>
+            	
+            </footer>
+        	</div>
+    </body>    
+</html>    
