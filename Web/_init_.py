@@ -16,10 +16,6 @@ def accueil():
 	
 @app.route('/trouver_lamour')
 def trouver_lamour():
-    os.remove('./static/python/temp_images/cover.jpg')
-    os.remove('./static/python/temp_images/page.jpg')
-    os.remove('./static/python/temp_images/paragraph.jpg')
-    os.remove('./static/python/temp_images/competition.jpg')
     return render_template('search.html')
 
 @app.route('/trouver_lamour', methods=['POST'])
