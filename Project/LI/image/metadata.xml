@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>236930</docId>
+    <title>LIfull</title>
+    <uploadTimestamp>1572475591269</uploadTimestamp>
+    <uploader>guilhem.sicard@epfl.ch</uploader>
+    <uploaderId>48236</uploaderId>
+    <nrOfPages>333</nrOfPages>
+    <pageId>10470185</pageId>
+    <url>https://files.transkribus.eu/Get?id=JZWOHTKLBJXURDRSYTEOWSVA&amp;fileType=view</url>
+    <thumbUrl>https://files.transkribus.eu/Get?id=JZWOHTKLBJXURDRSYTEOWSVA&amp;fileType=thumb</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_236930</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>50598</colId>
+            <colName>guilhem.sicard@epfl.ch Collection</colName>
+            <description>guilhem.sicard@epfl.ch</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-11-10T21:09:24.441+01:00</Created>
+        <LastChange>2019-11-10T21:14:56.535+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="236930" pageId="10470186" pageNr="2" tsid="19187692" status="IN_PROGRESS" userId="48236" imgUrl="https://files.transkribus.eu/Get?id=UKWRELHWUUANLCDUGENPGTFC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QFCVXGCQAAIBVKAXDKDDTMYA" imageId="6975037"/>
+    </Metadata>
+    <Page imageFilename="bpt6k940659s_002.jpg" imageWidth="2472" imageHeight="3696">
+        <PrintSpace>
+            <Coords points="155,0 2472,0 2472,3696 155,3696"/>
+        </PrintSpace>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="155,0 2472,0 2472,3696 155,3696"/>
+        </GraphicRegion>
+        <SeparatorRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="191,81 341,81 341,89 191,89"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="2353,484 2365,484 2365,1564 2353,1564"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="2364,2388 2374,2388 2374,2566 2364,2566"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1085,470 1568,470 1568,484 1085,484"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="467,1723 480,1723 480,1954 467,1954"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-11-10T21:11:16.642+01:00</Created>
+        <LastChange>2019-11-10T21:17:18.518+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="236930" pageId="10470300" pageNr="116" tsid="19187873" status="IN_PROGRESS" userId="48236" imgUrl="https://files.transkribus.eu/Get?id=TVGZBNIVPVYTEWZLIQCLNCLX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AXETSLCIHFGJKLVSZNJCDMWW" imageId="6975151"/>
+    </Metadata>
+    <Page imageFilename="bpt6k940671f_020.jpg" imageWidth="2472" imageHeight="3696">
+        <PrintSpace>
+            <Coords points="0,113 2472,113 2472,3696 0,3696"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1573417655046" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_4_1"/>
+                <RegionRefIndexed index="4" regionRef="r_5_1"/>
+                <RegionRefIndexed index="6" regionRef="r_9_1"/>
+                <RegionRefIndexed index="7" regionRef="r_12_1"/>
+                <RegionRefIndexed index="8" regionRef="r_14_1"/>
+                <RegionRefIndexed index="9" regionRef="r_15_1"/>
+                <RegionRefIndexed index="11" regionRef="r_18_1"/>
+                <RegionRefIndexed index="12" regionRef="r_21_1"/>
+                <RegionRefIndexed index="14" regionRef="r_24_1"/>
+                <RegionRefIndexed index="15" regionRef="r_25_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="1346,157 1430,157 1430,194 1346,194"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1347,158 1429,158 1429,193 1347,193"/>
+                <Baseline points="1347,175 1351,175 1429,166"/>
+                <Word id="w_w2aab1b1b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1347,169 1409,169 1409,192 1347,192"/>
+                    <TextEquiv>
+                        <Unicode>■■■</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="4.0" strikethrough="true"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1b1b1" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1427,158 1429,158 1429,166 1427,166"/>
+                    <TextEquiv>
+                        <Unicode>■</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="4.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>■■■■</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>■■■■</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="1263,246 1391,246 1391,287 1263,287"/>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1264,247 1390,247 1390,286 1264,286"/>
+                <Baseline points="1264,260 1280,252 1305,286 1390,276"/>
+                <Word id="w_w2aab1b3b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1264,248 1280,248 1280,260 1264,260"/>
+                    <TextEquiv>
+                        <Unicode>-■</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="6.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b1b1ab7" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1299,251 1305,251 1305,286 1299,286"/>
+                    <TextEquiv>
+                        <Unicode>!</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="6.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b1b1b1b1" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1342,270 1390,270 1390,276 1342,276"/>
+                    <TextEquiv>
+                        <Unicode>—</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="4.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>-■ ! —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>-■ ! —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="943,365 947,365 947,370 943,370"/>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="944,366 946,366 946,369 944,369"/>
+                <Baseline points="944,369 946,369"/>
+                <Word id="w_w2aab1b5b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="944,366 946,366 946,369 944,369"/>
+                    <TextEquiv>
+                        <Unicode>'</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="6.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>'</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="6.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>'</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:3;}">
+            <Coords points="1817,162 1833,162 1833,186 1817,186"/>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1818,163 1832,163 1832,185 1818,185"/>
+                <Baseline points="1818,185 1832,185"/>
+                <Word id="w_w2aab1b7b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1818,163 1832,163 1832,185 1818,185"/>
+                    <TextEquiv>
+                        <Unicode>«</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="5.0" bold="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>«</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="5.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>«</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:4;}">
+            <Coords points="1898,365 1988,365 1988,378 1898,378"/>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1899,366 1987,366 1987,377 1899,377"/>
+                <Baseline points="1899,371 1904,371 1987,377"/>
+                <Word id="w_w2aab1b9b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1899,367 1904,367 1904,371 1899,371"/>
+                    <TextEquiv>
+                        <Unicode>•</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="4.0"/>
+                </Word>
+                <Word id="w_w2aab1b9b2b1b1ab5" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1948,370 1987,370 1987,377 1948,377"/>
+                    <TextEquiv>
+                        <Unicode>..</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="4.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>• ..</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="4.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>• ..</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1008,439 1073,439 1073,489 1008,489"/>
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_9_1" custom="readingOrder {index:6;}">
+            <Coords points="878,642 912,642 912,674 878,674"/>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="879,643 911,643 911,673 879,673"/>
+                <Baseline points="879,673 911,673"/>
+                <Word id="w_w2aab1c17b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="879,643 911,643 911,673 879,673"/>
+                    <TextEquiv>
+                        <Unicode>c</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="9.5" italic="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>c</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>c</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_12_1" custom="readingOrder {index:7;}">
+            <Coords points="581,901 595,901 595,910 581,910"/>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="582,902 594,902 594,909 582,909"/>
+                <Baseline points="582,909 594,906"/>
+                <Word id="w_w2aab1c23b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="582,902 594,902 594,909 582,909"/>
+                    <TextEquiv>
+                        <Unicode>■■</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="4.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>■■</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="4.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>■■</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_14_1" custom="readingOrder {index:8;}">
+            <Coords points="1041,1377 1081,1377 1081,1412 1041,1412"/>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1042,1378 1080,1378 1080,1411 1042,1411"/>
+                <Baseline points="1043,1406 1046,1406 1080,1410"/>
+                <Word id="w_w2aab1c27b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1043,1378 1046,1378 1046,1411 1043,1411"/>
+                    <TextEquiv>
+                        <Unicode>.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="10.0"/>
+                </Word>
+                <Word id="w_w2aab1c27b2b1b1b1b1" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1067,1378 1080,1378 1080,1410 1067,1410"/>
+                    <TextEquiv>
+                        <Unicode>i</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="7.5" bold="true" italic="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>. i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>. i</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_15_1" custom="readingOrder {index:9;}">
+            <Coords points="2065,420 2071,420 2071,429 2065,429"/>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="2066,421 2070,421 2070,428 2066,428"/>
+                <Baseline points="2066,428 2070,428"/>
+                <Word id="w_w2aab1c29b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="2066,421 2070,421 2070,428 2066,428"/>
+                    <TextEquiv>
+                        <Unicode>'</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="4.0" italic="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>'</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="4.0" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>'</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_16" custom="readingOrder {index:10;}">
+            <Coords points="1284,669 2222,669 2222,1741 1284,1741"/>
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_18_1" custom="readingOrder {index:11;}">
+            <Coords points="781,1924 804,1924 804,1958 781,1958"/>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="782,1925 803,1925 803,1957 782,1957"/>
+                <Baseline points="782,1957 797,1957 803,1951"/>
+                <Word id="w_w2aab1c35b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="782,1925 797,1925 797,1957 782,1957"/>
+                    <TextEquiv>
+                        <Unicode>7</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="8.0"/>
+                </Word>
+                <Word id="w_w2aab1c35b2b1b1b1b1" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="796,1948 803,1948 803,1951 796,1951"/>
+                    <TextEquiv>
+                        <Unicode>-</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="4.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>7-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>7-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_21_1" custom="readingOrder {index:12;}">
+            <Coords points="2050,2130 2062,2130 2062,2158 2050,2158"/>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="2051,2131 2061,2131 2061,2157 2051,2157"/>
+                <Baseline points="2051,2157 2061,2157"/>
+                <Word id="w_w2aab1c41b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="2051,2131 2061,2131 2061,2157 2051,2157"/>
+                    <TextEquiv>
+                        <Unicode>(</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="6.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>(</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="6.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_22" custom="readingOrder {index:13;}">
+            <Coords points="1249,2208 2226,2208 2226,2714 1249,2714"/>
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_24_1" custom="readingOrder {index:14;}">
+            <Coords points="702,3466 863,3466 863,3521 702,3521"/>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="703,3467 862,3467 862,3520 703,3520"/>
+                <Baseline points="704,3520 708,3520 861,3487"/>
+                <Word id="w_w2aab1c47b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="704,3467 708,3467 708,3520 704,3520"/>
+                    <TextEquiv>
+                        <Unicode>.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="4.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1c47b2b1b1b1b1" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="857,3467 861,3467 861,3487 857,3487"/>
+                    <TextEquiv>
+                        <Unicode>'</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="21.0" bold="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>. '</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>. '</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_25_1" custom="readingOrder {index:15;}">
+            <Coords points="1075,3432 2071,3432 2071,3542 1075,3542"/>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1076,3433 2070,3433 2070,3541 1076,3541"/>
+                <Baseline points="1076,3541 1307,3517 1495,3534 1611,3536 2070,3528"/>
+                <Word id="w_w2aab1c49b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1076,3443 1485,3443 1485,3541 1076,3541"/>
+                    <TextEquiv>
+                        <Unicode>ELWà</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="21.0" bold="true" strikethrough="true"/>
+                </Word>
+                <Word id="w_w2aab1c49b2b1b1b1b1" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1484,3468 1495,3468 1495,3534 1484,3534"/>
+                    <TextEquiv>
+                        <Unicode>j</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="21.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1c49b2b1b1b2b1" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1494,3437 1681,3437 1681,3536 1494,3536"/>
+                    <TextEquiv>
+                        <Unicode>WW</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="21.0" bold="true" strikethrough="true"/>
+                </Word>
+                <Word id="w_w2aab1c49b2b1b1b3b1" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="1680,3433 2070,3433 2070,3531 1680,3531"/>
+                    <TextEquiv>
+                        <Unicode>«M&gt;W</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="21.0" bold="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ELWàjWW«M&gt;W</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ELWàjWW«M&gt;W</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:16;}">
+            <Coords points="200,147 784,147 784,177 200,177"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:17;}">
+            <Coords points="784,131 2165,131 2165,196 784,196"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:18;}">
+            <Coords points="1471,3517 2122,3517 2122,3540 1471,3540"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:19;}">
+            <Coords points="240,3527 1246,3527 1246,3556 240,3556"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:20;}">
+            <Coords points="0,3693 700,3693 700,3696 0,3696"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:21;}">
+            <Coords points="700,3685 1542,3685 1542,3696 700,3696"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:22;}">
+            <Coords points="1542,3688 2213,3688 2213,3696 1542,3696"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:23;}">
+            <Coords points="0,3492 3,3492 3,3696 0,3696"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:24;}">
+            <Coords points="0,2484 9,2484 9,3200 0,3200"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:25;}">
+            <Coords points="0,1308 9,1308 9,2008 0,2008"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:26;}">
+            <Coords points="0,468 9,468 9,1184 0,1184"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:27;}">
+            <Coords points="0,132 3,132 3,344 0,344"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:28;}">
+            <Coords points="206,2430 221,2430 221,3521 206,3521"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:29;}">
+            <Coords points="204,1495 217,1495 217,2430 204,2430"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_40" custom="readingOrder {index:30;}">
+            <Coords points="194,157 227,157 227,918 194,918"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_41" custom="readingOrder {index:31;}">
+            <Coords points="219,1981 251,1981 251,3548 219,3548"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_42" custom="readingOrder {index:32;}">
+            <Coords points="2332,1701 2360,1701 2360,3196 2332,3196"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_43" custom="readingOrder {index:33;}">
+            <Coords points="2344,3196 2360,3196 2360,3483 2344,3483"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_44" custom="readingOrder {index:34;}">
+            <Coords points="2332,1068 2369,1068 2369,1701 2332,1701"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_45" custom="readingOrder {index:35;}">
+            <Coords points="2466,3357 2472,3357 2472,3696 2466,3696"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_46" custom="readingOrder {index:36;}">
+            <Coords points="2437,341 2446,341 2446,466 2437,466"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>
