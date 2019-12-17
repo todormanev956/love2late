@@ -160,7 +160,7 @@ section
 	background-color: rgba(186,170,205,0.75);
 	width: 375px;
 	margin-left:calc(95% - 375px);
-	margin-top: 20%;
+	margin-top: 15%;
 	box-shadow: 3px 6px 15px #524660;
 	height: 430px;
 }
@@ -241,9 +241,4 @@ section
     display: inline-block;
     font-size: 16px;
   }
-/* .text
-{
-	width: 20px;
-	padding: 5px;
-} */
 

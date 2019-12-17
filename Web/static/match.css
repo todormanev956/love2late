@@ -210,46 +210,17 @@ select
 {
 	background-color: rgba(98,56,142,0.85);
 	width: 325px;
-	margin: auto;
+	margin-left: 25px;
+	margin-top: 35px;
 	height: 60px;
 	border-radius: 15px;
 }
 
-/*Lien*/
-
-#placement
-{
-	padding-top: 17px;
-}
-
-#lien_texte
-{
-    font-size: 1.55em;
-    margin-left: 70px;
-    color: #CCA135;
-    text-decoration: none;
-    font-weight: 900;
-}
-
-#lien_texte:visited 
-{
-    color: #CCA135;
-}
-
-#lien_texte:hover
-{
-   color: #BAAACD;
-}
-
-#lien_texte:focus
-{
-	outline: none;
-	justify-content: center;
-}
 
 .flex-container 
 {
-	width: 100%;
+	width: 80%;
+	margin-left: 10%;
 	display: flex;
 	flex-flow: column wrap;
 	align-content: center;
@@ -260,7 +231,7 @@ select
 	width: 80%;
     display: flex;
 	flex-flow: row wrap;
-	justify-content: center;
+	justify-content: left;
 }
 
 .text_inp
@@ -272,14 +243,7 @@ select
 /*Button*/
 
 
-#search_texte
-{
-    font-size: 1.55em;
-    margin-left: 70px;
-    color: #CCA135;
-    text-decoration: none;
-    font-weight: 900;
-}
+
 
 #search:visited 
 {
@@ -294,10 +258,24 @@ select
 #search:focus
 {
 	outline: none;
+	justify-content: center;
 }
 
 input[type=submit] {
-    padding:5px 15px; 
+	background: none;
+    border:0 none;
+    cursor:pointer;
+	font-size: 1.55em;
+	margin-left: 60px;
+	margin-top: 15px;
+    color: #CCA135;
+    text-decoration: none;
+    font-weight: 900;
+
+
+
+
+    /* padding:5px 15px; 
     background: none; 
     border:0 none;
     cursor:pointer;
@@ -306,21 +284,20 @@ input[type=submit] {
 	font-size: 1.55em;
     color: #CCA135;
     text-decoration: none;
-    font-weight: 900;
+    font-weight: 900; */
 }
 
 .page
 {
-	width: 300px;
+	width: 60%;
 	margin: 5px;
 }
 
-.announcement
+.tags-container
 {
-	width: 60%;
+	font-size: 0.9em;
+	color: rgb(86, 40, 134);
+    text-decoration: none;
+    font-weight: 900;
 }
 
-.competition
-{
-	width: 30%;
-}

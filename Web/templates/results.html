@@ -3,38 +3,36 @@
 
 {% block results %}
 
-
-<div class="tags-container">
-
     {% if result != None %}
 
-    <p class='texte_presentation'>Nous avons trouvé un match !!!</p>
+    <h1>Nous avons trouvé un match !!!</h1>
 
     <div>
-        <img class='announcement' src="./static/python/temp_images/paragraph.jpg">
+        <img class='page' src="./static/python/temp_images/paragraph.jpg">
     </div>
 
-    <p class='texte_presentation'>Votre âme sœur a publié une annonce le {{result['date']}}
-         dans le périodique {{result['journal']}} :</p>
+    {% if result['soulmate'] %}
+    <h2>Par contre, vous avez de la compétition :</h1>
+    <img class='page' src="./static/python/temp_images/competition.jpg">
+    {% endif %}
+
+    <h2>Votre âme sœur a publié une annonce le {{result['date']}}
+         dans le périodique {{result['journal']}} :</h2>
 
     <img class='page' src="./static/python/temp_images/cover.jpg">
 
-    <p class='texte_presentation'>sur la page {{result['page_nb']}} :
-    </p>
+    <h2>sur la page {{result['page_nb']}} :
+    </h2>
 
     <img class='page' src="./static/python/temp_images/page.jpg">
 
-    {% if result['soulmate'] %}
-    <p class='texte_presentation'>Par contre, vous avez de la compétition :</p>
-    <img class='competition' src="./static/python/temp_images/competition.jpg">
-    {% endif %}
+
 
     {% else%}
-    <p class='texte_presentation'>Malheureusement nous n'avons trouvé aucun match pour vous.
+    <h2>Malheureusement nous n'avons trouvé aucun match pour vous.
         Essayer d'élargir vos critères de recherche.
-    </p>
+    </h2>
     {% endif %}
 
-</div>
 
 {% endblock %}
